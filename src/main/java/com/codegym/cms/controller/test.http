@@ -1,0 +1,10 @@
+GET localhost:8081/customers
+###
+
+GET localhost:8081/customers/1
+###
+
+DELETE localhost:8081/customers/2
+
+
+###
